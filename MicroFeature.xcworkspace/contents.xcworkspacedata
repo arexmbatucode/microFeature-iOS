@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:MicroFeature.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:stModel/mModel.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:stDependency/mDependency.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:stFeatured/mFeatured.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:stUI/mUI.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:stCore/mCore.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
